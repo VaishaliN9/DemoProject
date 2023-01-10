@@ -89,6 +89,7 @@ public class HomePageTest extends BaseTest {
 					 System.out.println(courseName.getText());
 					 System.out.println("===================================================================");
 					 System.out.println("===");
+					 System.out.println("completed");
 					}
 				
 				}
