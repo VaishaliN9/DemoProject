@@ -88,8 +88,8 @@ public class HomePageTest extends BaseTest {
 					 WebElement courseName = driver.findElement(By.xpath("(//div[@class='css-1rj417c']/h2)["+(j+1)+"]"));
 					 System.out.println(courseName.getText());
 					 System.out.println("===================================================================");
-					 System.out.println("===");
-					 System.out.println("completed");
+					 
+					 
 					}
 				
 				}
